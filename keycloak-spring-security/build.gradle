@@ -19,7 +19,7 @@ dependencies {
 	testImplementation 'org.springframework.security:spring-security-test'
 
 	// Keycloak
-	implementation 'org.keycloak:keycloak-spring-boot-starter'
+	implementation 'org.keycloak:keycloak-spring-boot-starter:15.0.2'
 }
 
 test {
